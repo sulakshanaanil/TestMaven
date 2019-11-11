@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[maven is working]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70" started-at="2019-11-08T10:34:00Z" finished-at="2019-11-08T10:34:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70" started-at="2019-11-08T10:34:00Z" finished-at="2019-11-08T10:34:00Z">
+      <class name="TY_maven.Maven_Project.Mvndemo">
+        <test-method status="PASS" signature="mevanproject()[pri:0, instance:TY_maven.Maven_Project.Mvndemo@75f9eccc]" name="mevanproject" duration-ms="21" started-at="2019-11-08T10:34:00Z" finished-at="2019-11-08T10:34:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[maven is working]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mevanproject -->
+      </class> <!-- TY_maven.Maven_Project.Mvndemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
